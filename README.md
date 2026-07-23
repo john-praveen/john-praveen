@@ -1,16 +1,14 @@
-
-
 <h1 align="center">
   Hi there, I'm John Praveen 👋
 </h1>
-<h3 align="center">A passionate AI & Computer Vision enthusiast </h3>
+<h3 align="center">Computer Vision & Edge AI Engineer | Agentic AI Systems | Final-Year ENTC Undergraduate</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Animation">
 </p>
 
 <p align="center">
-  I'm a third-year undergraduate at the <strong>University of Moratuwa</strong>, diving deep into the world of Artificial Intelligence. I love building intelligent systems and exploring the intersection of AI, Machine Learning, Computer Vision, and Edge Computing.
+  I'm a final-year Electronics & Telecommunication Engineering undergraduate at the <strong>University of Moratuwa</strong>, currently working as a <strong>Research Intern at NUS STAR Labs</strong> (Satellite Technology and Research Centre), where I build real-time 6DoF pose estimation pipelines for satellites from single images on edge hardware. I previously worked as a <strong>Software Engineer (AI) at Yaala Labs</strong>, building agentic AI systems and RAG pipelines deployed on AWS. I care about taking deep learning models out of research notebooks and into real-time, resource-constrained systems.
 </p>
 
 <p align="center">
@@ -27,62 +25,76 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 👨‍💻 I’m currently working on exciting projects involving **Deep Learning **.
-* 🧠 I’m currently learning about **MLOps and deploying scalable AI models**.
-* 🤝 I’m looking to collaborate on **open-source AI/ML projects**, especially in computer vision.
-* ⚡ Fun fact: I believe AI can be creative, not just computational!
+*  Currently a **Research Intern at NUS STAR Labs**, developing real-time single-image 6DoF pose estimation for satellites on Jetson AGX Orin edge hardware
+*  Previously **Software Engineer (AI) at Yaala Labs**, building agentic AI systems and RAG / Graph RAG pipelines deployed on AWS
+*  Final-year Electronics & Telecommunication Engineering undergraduate at the University of Moratuwa
+*  Deepening my knowledge of efficient deep learning for edge deployment — quantization, pruning, and model compression
+*  Open to collaborating on open-source AI/ML and Computer Vision projects
+*  Fun fact: the hardest part of AI isn't training the model, it's getting it to run in real time on hardware that fits in your hand
 
 ---
 
-## 🛠️ My Tech Stack
+##  Experience
 
-Here are some of the technologies I'm proficient in:
+**Research Intern — NUS STAR Labs** *(Satellite Technology and Research Centre, National University of Singapore)*
+* Building a real-time 6DoF satellite pose estimation pipeline from single monocular images, deployed on Jetson AGX Orin edge hardware
+* Developed and benchmarked FastPose-ViT and HRNet-based pose estimation models, with GPU-accelerated TensorRT inference
+* Working on a CAD-free pipeline combining monocular 3D reconstruction with zero-shot pose tracking
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-  </a>
-  
-  <br/>
-  
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  </a>
+**Software Engineer (AI) — Yaala Labs**
+* Built agentic AI systems and deployed LLM agents on AWS
+* Developed RAG and Graph RAG pipelines for knowledge retrieval
+* Contributed to **Agent Kernel**, an open-source, framework-agnostic knowledge base layer for LLM agents, with cross-framework support for OpenAI Agents SDK, LangGraph, CrewAI, and Google ADK
+
+---
+
+## 🎓 Education
+
+**B.Sc. Engineering (Hons.) in Electronics & Telecommunication Engineering** — University of Moratuwa *(Final Year)*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+
+**AI / ML & Computer Vision**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+</p>
+
+**Edge AI & Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+**Cloud & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-## 📊 My GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
